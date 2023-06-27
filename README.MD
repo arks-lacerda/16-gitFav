@@ -4,7 +4,7 @@ Developing an application for bookmarking GitHub bookmarks.
 
 ![GitFav](./.github/preview.png)
 
-✨ Click [HERE]() to access the project
+✨ Click [HERE](https://arks-lacerda.github.io/16-gitFav/) to access the project
 
 <br>
 
